@@ -1,0 +1,9 @@
+{
+    "name": "treetracert",
+    "description": "Take many traceroutes to a single destination (in RIPE Atlas format), make a graph",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "~4.10.1",
+        "d3": "~3.5.5"
+    }
+}
