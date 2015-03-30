@@ -29,5 +29,4 @@ probes in New Zealand. To run it with different data, just change the content of
 
     wget -4 'https://atlas.ripe.net/api/v1/measurement/1850590/result/?start=1422662400&stop=1422748799&format=json' -O ./www/source_data.json
 
-![aint-it-purty](https://raw.github.com/cjdelisle/treetracert/master/screenshot.jpg)
-
+![aint-it-purty](https://raw.githubusercontent.com/cjdelisle/treetracert/master/screenshot.png)
